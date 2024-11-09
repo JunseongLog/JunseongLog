@@ -1,6 +1,13 @@
 ## Hi there 👋
+🌱 I’m currently learning ...
 
-https://velog.io/@timointhebush/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-DFS-BFS-Python
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JunseongLog"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **JunseongLog/JunseongLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
